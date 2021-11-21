@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['s_5frequests_5ftimeout',['S_REQUESTS_TIMEOUT',['../_t_c___config_8h.html#a53a3c6f514687a0dd3c0695976171ab4',1,'TC_Config.h']]],
+  ['server_5fac_5flocal_5ffile',['SERVER_AC_LOCAL_FILE',['../_t_c___config_8h.html#ae1ae0e028f4e3a9825692d6e109f6128',1,'TC_Config.h']]],
+  ['server_5fdiscovery_5flocal_5ffile',['SERVER_DISCOVERY_LOCAL_FILE',['../_t_c___config_8h.html#afdceb1e1d5c42892e5e0c001a79bf00d',1,'TC_Config.h']]],
+  ['server_5fmanagement_5fans_5flocal_5ffile',['SERVER_MANAGEMENT_ANS_LOCAL_FILE',['../_t_c___config_8h.html#a9d13d3b339ba2885452762e094585cca',1,'TC_Config.h']]],
+  ['server_5fmanagement_5freq_5flocal_5ffile',['SERVER_MANAGEMENT_REQ_LOCAL_FILE',['../_t_c___config_8h.html#ab7d19d769c67a07b9a6b76e5bc067b15',1,'TC_Config.h']]],
+  ['server_5fmonitoring_5flocal_5ffile',['SERVER_MONITORING_LOCAL_FILE',['../_t_c___config_8h.html#a07ea85555dc657e4fba77cb42dcdd458',1,'TC_Config.h']]],
+  ['server_5fnotifications_5flocal_5ffile',['SERVER_NOTIFICATIONS_LOCAL_FILE',['../_t_c___config_8h.html#a77999ee1614f42b0ed7cf7ec4863fb15',1,'TC_Config.h']]],
+  ['server_5freservation_5flocal_5ffile',['SERVER_RESERVATION_LOCAL_FILE',['../_t_c___config_8h.html#a16c412df606bd522e8f2fa06c0d60c35',1,'TC_Config.h']]],
+  ['set_5ftopic_5fprop',['SET_TOPIC_PROP',['../_t_c___data___types_8h.html#ad714a262743f1cb19d501c4e4f74c2dea6b47af3299a514b1afa0b680bf576cb9',1,'TC_Data_Types.h']]],
+  ['sock_5fbind',['sock_bind',['../_sockets_8c.html#aa9b73e0f8895b7c78f29106bcd4af0f5',1,'sock_bind(SOCK_ENTITY *sock, NET_ADDR *host):&#160;Sockets.c'],['../_sockets_8h.html#aa9b73e0f8895b7c78f29106bcd4af0f5',1,'sock_bind(SOCK_ENTITY *sock, NET_ADDR *host):&#160;Sockets.c']]],
+  ['sock_5fclose',['sock_close',['../_sockets_8c.html#af8be5cb96d08dd81b3b5aedaec09c466',1,'sock_close(SOCK_ENTITY *sock):&#160;Sockets.c'],['../_sockets_8h.html#af8be5cb96d08dd81b3b5aedaec09c466',1,'sock_close(SOCK_ENTITY *sock):&#160;Sockets.c']]],
+  ['sock_5fconnect_5fgroup_5frx',['sock_connect_group_rx',['../_sockets_8c.html#acc6626ff5f16994a03654b02c550ab33',1,'sock_connect_group_rx(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c'],['../_sockets_8h.html#acc6626ff5f16994a03654b02c550ab33',1,'sock_connect_group_rx(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c']]],
+  ['sock_5fconnect_5fgroup_5ftx',['sock_connect_group_tx',['../_sockets_8c.html#a7efa00d5fcb7e187392f0d871b898db8',1,'sock_connect_group_tx(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c'],['../_sockets_8h.html#a7efa00d5fcb7e187392f0d871b898db8',1,'sock_connect_group_tx(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c']]],
+  ['sock_5fconnect_5fpeer',['sock_connect_peer',['../_sockets_8c.html#ad4bed41523a1fbc0f7e59925e49b84f2',1,'sock_connect_peer(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c'],['../_sockets_8h.html#ad4bed41523a1fbc0f7e59925e49b84f2',1,'sock_connect_peer(SOCK_ENTITY *sock, NET_ADDR *peer):&#160;Sockets.c']]],
+  ['sock_5fdisconnect',['sock_disconnect',['../_sockets_8c.html#adb05cdb083980b18bde9c11b3f232bfa',1,'sock_disconnect(SOCK_ENTITY *sock):&#160;Sockets.c'],['../_sockets_8h.html#adb05cdb083980b18bde9c11b3f232bfa',1,'sock_disconnect(SOCK_ENTITY *sock):&#160;Sockets.c']]],
+  ['sock_5fentity',['sock_entity',['../structsock__entity.html',1,'sock_entity'],['../_t_c___data___types_8h.html#a84f2f030fe25f5c9aa8cd37cefd64cac',1,'SOCK_ENTITY():&#160;TC_Data_Types.h']]],
+  ['sock_5fopen',['sock_open',['../_sockets_8c.html#a879b5fd269ebbf634a4c7f714f39b4c4',1,'sock_open(SOCK_ENTITY *ret_sock, char type):&#160;Sockets.c'],['../_sockets_8h.html#a879b5fd269ebbf634a4c7f714f39b4c4',1,'sock_open(SOCK_ENTITY *ret_sock, char type):&#160;Sockets.c']]],
+  ['sock_5fprint_5fentity',['sock_print_entity',['../_sockets_8c.html#a5579290b38d75816f4714431e8721075',1,'sock_print_entity(SOCK_ENTITY *sock):&#160;Sockets.c'],['../_sockets_8h.html#a5579290b38d75816f4714431e8721075',1,'sock_print_entity(SOCK_ENTITY *sock):&#160;Sockets.c']]],
+  ['sock_5freceive',['sock_receive',['../_sockets_8c.html#a1db73a8786584b35e5d957e56a951876',1,'sock_receive(SOCK_ENTITY *sock, SOCK_ENTITY *unblock_sock, unsigned int timeout, char *ret_data, unsigned int buffer_size, NET_ADDR *ret_sender):&#160;Sockets.c'],['../_sockets_8h.html#a44621ec5b27c0249e46c37db78a5fbd9',1,'sock_receive(SOCK_ENTITY *sock, SOCK_ENTITY *unblock_sock, unsigned int timeout, char *ret_data, unsigned int buff_size, NET_ADDR *ret_sender):&#160;Sockets.c']]],
+  ['sock_5fsend',['sock_send',['../_sockets_8c.html#a7903364c749b6085e4430d14227b336e',1,'sock_send(SOCK_ENTITY *sock, NET_ADDR *dest, char *data, unsigned int data_size):&#160;Sockets.c'],['../_sockets_8h.html#a7903364c749b6085e4430d14227b336e',1,'sock_send(SOCK_ENTITY *sock, NET_ADDR *dest, char *data, unsigned int data_size):&#160;Sockets.c']]],
+  ['sock_5ftype',['SOCK_TYPE',['../_t_c___data___types_8h.html#a881d827e76958c05ee1647de4e7740d0',1,'TC_Data_Types.h']]],
+  ['sockets_2ec',['Sockets.c',['../_sockets_8c.html',1,'']]],
+  ['sockets_2eh',['Sockets.h',['../_sockets_8h.html',1,'']]]
+];
